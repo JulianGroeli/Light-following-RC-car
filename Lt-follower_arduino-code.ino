@@ -32,7 +32,7 @@ int steerPos = 90;    // variable to store the servo position
 
 int rtEyeValue = 0;
 int lfEyeValue = 0;
-int difference = 0;s
+int difference = 0;
 
 int threshold = 650;  // todo: write a setup function that reads the LDR's for a while to determine a good threshold value before entering the main loop.
 
